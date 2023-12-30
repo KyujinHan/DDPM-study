@@ -1,3 +1,13 @@
+# Code study: Denoising Diffusion Probabilistic Model
+- kyujinpy
+
+만약 질문이 있으시다면, [DDIM 블로그](https://kyujinpy.tistory.com/123)에서 같이 토론해봐요..!
+  
+# References
+- [DDPM](https://github.com/lucidrains/denoising-diffusion-pytorch)
+
+---
+> Original model readme
 <img src="./images/denoising-diffusion.png" width="500px"></img>
 
 ## Denoising Diffusion Probabilistic Model, in Pytorch
