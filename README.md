@@ -1,5 +1,6 @@
 # Code study: Denoising Diffusion Probabilistic Model
-- kyujinpy
+- kyujinpy 작성.
+- [DDPM study code](https://github.com/KyujinHan/DDPM-study/blob/master/DDPM_notebook.ipynb)를 참고해주시면 됩니다!
 
 만약 질문이 있으시다면, [DDIM 블로그](https://kyujinpy.tistory.com/123)에서 같이 토론해봐요..!
   
