@@ -8,6 +8,7 @@
 
 ---
 > Original model readme
+  
 <img src="./images/denoising-diffusion.png" width="500px"></img>
 
 ## Denoising Diffusion Probabilistic Model, in Pytorch
